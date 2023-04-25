@@ -6,7 +6,7 @@ https://weather-tracker-2023.netlify.app
 
 ## Front End
 
-HTML, CSS, React Hooks, JavaScript, React.js
+HTML, CSS, React Hooks, JavaScript, Redux, React.js
 
 ## Back End
 
