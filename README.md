@@ -1,2 +1,26 @@
-# weather-tracker-2023
-Weather Tracker is a web application that can be used to track the weather of any city, It sends a request to the OpenWeather API and returns the weather data for the city that was searched for.
+# Site is live
+
+https://weather-tracker-2023.netlify.app
+
+# Technologies Used
+
+## Front End
+
+HTML, CSS, React Hooks, JavaScript, React.js
+
+## Back End
+
+3rd Party Integrations
+
+## Virtualization
+
+Netlify
+
+# Setup
+To run this project, cd in to your project and run commands:
+
+## `npm install`
+## `npm start`
+
+# Project Status
+Project is: Done
